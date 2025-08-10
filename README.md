@@ -1,2 +1,6 @@
 # java-from-zero
-My personal Java learning journey from scratch. Exercises, notes, and mini projects based on tutorials and books.
+This is my personal journey of learning Java from scratch. <br>
+It includes notes, exercises, and mini projects based on tutorials (like Bro Code) and books.<br>
+
+
+## 📁 Structure
