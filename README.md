@@ -12,7 +12,7 @@ It includes notes, exercises, and mini projects based on tutorials (like Bro Cod
 
 ## 📚 Resources I'm learning from
 - [Bro Code - Java Full Course](https://www.youtube.com/watch?v=xk4_1vDrzzo)  <br>
-- "Java Programming" - Book <br>
+- Introduction to Programming Using Java - Book <br>
 - [w3schools Java](https://www.w3schools.com/java/) <br>
 
 ## 🚀 Goal
